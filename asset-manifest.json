@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pioneer-Labs/static/css/main.4230344f.css",
+    "main.js": "/Pioneer-Labs/static/js/main.3431f902.js",
+    "static/js/453.a15e5fea.chunk.js": "/Pioneer-Labs/static/js/453.a15e5fea.chunk.js",
+    "index.html": "/Pioneer-Labs/index.html",
+    "main.4230344f.css.map": "/Pioneer-Labs/static/css/main.4230344f.css.map",
+    "main.3431f902.js.map": "/Pioneer-Labs/static/js/main.3431f902.js.map",
+    "453.a15e5fea.chunk.js.map": "/Pioneer-Labs/static/js/453.a15e5fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4230344f.css",
+    "static/js/main.3431f902.js"
+  ]
+}
